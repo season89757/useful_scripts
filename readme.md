@@ -1,1 +1,1 @@
-hello!
+• get_amazon_review.py is a python script that I used to help my girlfriend to get reviews from Amazon (she need to calculate the number of reviews about a certain product each year). Just replace the URL with any product that you want, it will automatically grab the webpage, parse html and extract the information you need.
